@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "xyz.easysoftmx.test.android.phonegap"
+        }
+    }
+}
